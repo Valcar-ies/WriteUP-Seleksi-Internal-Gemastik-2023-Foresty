@@ -1,2 +1,2 @@
 # WriteUP-Seleksi-Internal-Gemastik-2023-Foresty
-Seleksi Internal Gemastik 2023, adalah seleksi yang dilakukan oleh Universitas Telkom. Hal ini dilakukan untuk menyeleksi tim CTF yang akan mengikuti Gemastik 2023.
+Gemastik Internal Selection 2023, is a selection conducted by Telkom University. This was done to select the CTF team to take part in Gemastik 2023. The team that managed to occupy the top 10 will be chosen to represent Telkom in Gemastik 2023.
