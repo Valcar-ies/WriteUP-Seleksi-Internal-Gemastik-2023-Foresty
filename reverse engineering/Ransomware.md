@@ -1,16 +1,16 @@
 # Ransomware
 >Could you help me to recover my encrypted files from this ransomware?
 
-![gambar](https://github.com/Valcar-ies/WriteUP-Seleksi-Internal-Gemastik-2023-Foresty/assets/84186470/12132118-8772-4124-82ec-432fe2aded73)
+![gambar](https://github.com/Valcar-ies/WriteUP-Seleksi-Internal-Gemastik-2023-Foresty/assets/84186470/c8d1de6d-a6aa-4868-9a1b-b0f7d2065a8b)
 
 Hints given:
 
-![gambar](https://github.com/Valcar-ies/WriteUP-Seleksi-Internal-Gemastik-2023-Foresty/assets/84186470/f1593beb-ef9e-4b41-9ab4-4101cf96c31c)
+![gambar](https://github.com/Valcar-ies/WriteUP-Seleksi-Internal-Gemastik-2023-Foresty/assets/84186470/f6079c05-b5cb-4c43-8c93-890adbdb4675)
 
 Given 2 files, one zip file and one .pyc file.
 When the zip file is unzipped, you get 3 image files that appear to be encrypted.
 
-![gambar](https://github.com/Valcar-ies/WriteUP-Seleksi-Internal-Gemastik-2023-Foresty/assets/84186470/0aba5594-70d7-4a4d-88d4-ada331d93104)
+![gambar](https://github.com/Valcar-ies/WriteUP-Seleksi-Internal-Gemastik-2023-Foresty/assets/84186470/0be5f57b-b20a-4b7e-839b-20e1a1c92db7)
 
 My assumption is, all images are encrypted using .pyc files.
 To get the python source code, I decompile it
@@ -87,14 +87,14 @@ if __name__ == '__main__':
 Then the following results are obtained, fragments of encrypted image files
 will be decrypted:
 
-![gambar](https://github.com/Valcar-ies/WriteUP-Seleksi-Internal-Gemastik-2023-Foresty/assets/84186470/d950400f-b9e5-41de-bd6c-9d56767c680c)
+![gambar](https://github.com/Valcar-ies/WriteUP-Seleksi-Internal-Gemastik-2023-Foresty/assets/84186470/da2fb046-6c2f-47cb-b37b-368f85879b44)
 
 So if i opened one by one and put together it will
 form the flag:
 
-![gambar](https://github.com/Valcar-ies/WriteUP-Seleksi-Internal-Gemastik-2023-Foresty/assets/84186470/732f5cd7-2385-4473-a229-35ad80298a3d)
-![gambar](https://github.com/Valcar-ies/WriteUP-Seleksi-Internal-Gemastik-2023-Foresty/assets/84186470/dfdae2c6-f48d-4a14-9a9f-369268ddb306)
-![gambar](https://github.com/Valcar-ies/WriteUP-Seleksi-Internal-Gemastik-2023-Foresty/assets/84186470/724ba476-e91c-49b6-b72a-3cf8a594b317)
+![gambar](https://github.com/Valcar-ies/WriteUP-Seleksi-Internal-Gemastik-2023-Foresty/assets/84186470/89d34437-d35d-4773-8e5e-e8c56e4d92dc)
+![gambar](https://github.com/Valcar-ies/WriteUP-Seleksi-Internal-Gemastik-2023-Foresty/assets/84186470/f23c5ab9-4604-4246-9793-74ef1d5268d2)
+![gambar](https://github.com/Valcar-ies/WriteUP-Seleksi-Internal-Gemastik-2023-Foresty/assets/84186470/616d07ff-3186-45b0-bb6f-efc2f4bf0ffa)
 
 Combine the three images above into flags according to the order
 on the file name.
