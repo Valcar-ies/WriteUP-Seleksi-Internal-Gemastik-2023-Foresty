@@ -31,7 +31,7 @@ as follows.
 
 ![gambar](https://github.com/Valcar-ies/WriteUP-Seleksi-Internal-Gemastik-2023-Foresty/assets/84186470/7f6997eb-c7aa-4279-a7ec-a69de68d537e)
 
-Flags successfully obtained:
+#### Flags successfully obtained:
 ```console
 ForestyCTF{Ohh_no_my_web_has_been_hacked_4a2fac}
 ```
