@@ -99,7 +99,7 @@ form the flag:
 Combine the three images above into flags according to the order
 on the file name.
 
-Flags successfully obtained:
+#### Flags successfully obtained:
 ```console
 ForestyCTF{the_real_ransomware_never_store_the_key_hardcoded_on_encrypted_file_12da1f}
 ```
