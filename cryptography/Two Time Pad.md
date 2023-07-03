@@ -1,14 +1,14 @@
 # Two Time Pad
 >One Time Pad? No, this is Two Time Pad.
 
-![gambar](https://github.com/Valcar-ies/WriteUP-Seleksi-Internal-Gemastik-2023-Foresty/assets/84186470/14752b25-2704-476b-9331-0e2b83c2b3e1)
+![gambar](https://github.com/Valcar-ies/WriteUP-Seleksi-Internal-Gemastik-2023-Foresty/assets/84186470/08982101-4e98-4864-b5e7-3f674883a4e9)
 
 In this crypto challenge, we are given a .txt file and a python script
 seems to be the source code to encrypt the flag
 
 This is the content from encrypted message
 
-![gambar](https://github.com/Valcar-ies/WriteUP-Seleksi-Internal-Gemastik-2023-Foresty/assets/84186470/d3c25159-1306-468e-bc16-65a40ba770c5)
+![gambar](https://github.com/Valcar-ies/WriteUP-Seleksi-Internal-Gemastik-2023-Foresty/assets/84186470/cf9296e3-3d68-4680-9ea7-895c8a42ee61)
 
 Based on the title & description of the problem, I assume the concept of crypto
 namely One TimePad. So, i immediately use online tools
@@ -23,7 +23,7 @@ which is also used in the encryption process
 
 So let's just use:
 
-![gambar](https://github.com/Valcar-ies/WriteUP-Seleksi-Internal-Gemastik-2023-Foresty/assets/84186470/83f3d276-8a0c-4514-840d-2e08c65633f5)
+![gambar](https://github.com/Valcar-ies/WriteUP-Seleksi-Internal-Gemastik-2023-Foresty/assets/84186470/ecb35242-a848-473a-8f68-8e032b6c27f8)
 
 #### Flags successfully obtained:
 ```console
