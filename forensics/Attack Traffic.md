@@ -2,19 +2,19 @@
 >Oh no, my web app has been hacked by someone and I think my secret
 password has been leaked.
 
-![gambar](https://github.com/Valcar-ies/WriteUP-Seleksi-Internal-Gemastik-2023-Foresty/assets/84186470/b2cdb199-b961-48e5-9955-3c97facc74c7)
+![gambar](https://github.com/Valcar-ies/WriteUP-Seleksi-Internal-Gemastik-2023-Foresty/assets/84186470/47f59c18-ad80-45c3-80de-e06cec55fc7a)
 
 Given a capture file that records the website traffic logs that have been
 hacked.
 
-![gambar](https://github.com/Valcar-ies/WriteUP-Seleksi-Internal-Gemastik-2023-Foresty/assets/84186470/793a7f62-cafc-4ef2-94e0-65893002ef9b)
+![gambar](https://github.com/Valcar-ies/WriteUP-Seleksi-Internal-Gemastik-2023-Foresty/assets/84186470/c8c066a1-d40d-4745-af91-475fa9a83d0d)
 
 Because data is too much, do filtering by looking for http only
 or related to login traffic or opening attempts
 password.
 
-![gambar](https://github.com/Valcar-ies/WriteUP-Seleksi-Internal-Gemastik-2023-Foresty/assets/84186470/168b0015-d0fa-4ac3-b849-15dc5500c3fb)
-![gambar](https://github.com/Valcar-ies/WriteUP-Seleksi-Internal-Gemastik-2023-Foresty/assets/84186470/187eae66-b2dc-4a11-aa47-9d53110623c3)
+![gambar](https://github.com/Valcar-ies/WriteUP-Seleksi-Internal-Gemastik-2023-Foresty/assets/84186470/40845d13-f82f-4615-bd9e-03f4df846421)
+![gambar](https://github.com/Valcar-ies/WriteUP-Seleksi-Internal-Gemastik-2023-Foresty/assets/84186470/6487bd80-293e-43df-b57e-bb6f0ccf9a76)
 
 By checking the http logs, we found the info that contains
 many password characters, then on wireshark you can see there is info
@@ -29,7 +29,7 @@ If you have found all the ascii numbers, enter them in
 online converter to convert to plaintext. Then get flags
 as follows.
 
-![gambar](https://github.com/Valcar-ies/WriteUP-Seleksi-Internal-Gemastik-2023-Foresty/assets/84186470/7f6997eb-c7aa-4279-a7ec-a69de68d537e)
+![gambar](https://github.com/Valcar-ies/WriteUP-Seleksi-Internal-Gemastik-2023-Foresty/assets/84186470/7f5258f5-5c54-4f8a-bf66-586a36a36226)
 
 #### Flags successfully obtained:
 ```console
