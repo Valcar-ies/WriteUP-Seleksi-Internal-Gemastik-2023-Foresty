@@ -19,7 +19,7 @@ We are proud of what we have achieved so far, where we are in the top two!!
 |Category|Challenge|
 |:------:|:-------:|
 |Reverse Engineering|[Crackme](https://github.com/Valcar-ies/WriteUP-Seleksi-Internal-Gemastik-2023-Foresty/blob/main/reverse%20engineering/Crackme.md)|
-|Reverse Engineering|[Ransomware]()|
+|Reverse Engineering|[Ransomware](https://github.com/Valcar-ies/WriteUP-Seleksi-Internal-Gemastik-2023-Foresty/blob/main/reverse%20engineering/Ransomware.md)|
 |Forensics|[Attack Traffic]()|
 |Forensics|[Signature]()|
 |Crytography|[Two Time Pad]()|
