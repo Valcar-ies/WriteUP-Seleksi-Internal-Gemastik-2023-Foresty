@@ -22,7 +22,7 @@ We are proud of what we have achieved so far, where we are in the top two!!
 |Reverse Engineering|[Ransomware](https://github.com/Valcar-ies/WriteUP-Seleksi-Internal-Gemastik-2023-Foresty/blob/main/reverse%20engineering/Ransomware.md)|
 |Forensics|[Attack Traffic](https://github.com/Valcar-ies/WriteUP-Seleksi-Internal-Gemastik-2023-Foresty/blob/main/forensics/Attack%20Traffic.md)|
 |Forensics|[Signature](https://github.com/Valcar-ies/WriteUP-Seleksi-Internal-Gemastik-2023-Foresty/blob/main/forensics/Signature.md)|
-|Crytography|[Two Time Pad]()|
+|Crytography|[Two Time Pad](https://github.com/Valcar-ies/WriteUP-Seleksi-Internal-Gemastik-2023-Foresty/blob/main/cryptography/Two%20Time%20Pad.md)|
 |Binary Exploitation|[Login Portal]()|
 |OSINT|[Find Her]()|
 
