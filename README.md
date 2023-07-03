@@ -24,7 +24,7 @@ We are proud of what we have achieved so far, where we are in the top two!!
 |Forensics|[Attack Traffic](https://github.com/Valcar-ies/WriteUP-Seleksi-Internal-Gemastik-2023-Foresty/blob/main/forensics/Attack%20Traffic.md)|
 |Forensics|[Signature](https://github.com/Valcar-ies/WriteUP-Seleksi-Internal-Gemastik-2023-Foresty/blob/main/forensics/Signature.md)|
 |Crytography|[Two Time Pad](https://github.com/Valcar-ies/WriteUP-Seleksi-Internal-Gemastik-2023-Foresty/blob/main/cryptography/Two%20Time%20Pad.md)|
-|Binary Exploitation|[Login Portal]()|
+|Binary Exploitation|[Login Portal](https://github.com/Valcar-ies/WriteUP-Seleksi-Internal-Gemastik-2023-Foresty/tree/main/binary%20exploitation)|
 |OSINT|[Find Her]()|
 
 I hope this writeup can be useful
