@@ -41,3 +41,5 @@ Then save, and the image can be opened:
 ```console
 ForestyCTF{ezzzz123!!!}
 ```
+
+##### Solved by : valcaries
