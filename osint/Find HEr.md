@@ -9,11 +9,11 @@ view?usp=sharing
 Put the flag into proper format : ForestyCTF{Street Name_Postal
 Code_City_Country} e.g ForestyCTF{Varnaun St_IU33 8SI_Paris_France}
 
-![gambar](https://github.com/Valcar-ies/WriteUP-Seleksi-Internal-Gemastik-2023-Foresty/assets/84186470/172d4a85-a67e-4955-8cc1-d534056934df)
+![gambar](https://github.com/Valcar-ies/WriteUP-Seleksi-Internal-Gemastik-2023-Foresty/assets/84186470/4f0e34b7-d5f7-40f8-b1f9-b5579140061d)
 
 Open the drive link, and a video will appear as below:
 
-![gambar](https://github.com/Valcar-ies/WriteUP-Seleksi-Internal-Gemastik-2023-Foresty/assets/84186470/ecb9a323-9fd3-47a0-b591-cb8baaea27e5)
+![gambar](https://github.com/Valcar-ies/WriteUP-Seleksi-Internal-Gemastik-2023-Foresty/assets/84186470/0b35c928-2460-4e70-a1e4-e6598e6c30eb)
 
 First of all, we judge from the video environment, it can be seen that the place
 it is located in europe, you can see the shape of the building, as well
@@ -23,11 +23,11 @@ Then there is one highlight that is visible to us, which is a symbol
 "Underground which only exists in the country "England", can be seen at
 picture below:
 
-![gambar](https://github.com/Valcar-ies/WriteUP-Seleksi-Internal-Gemastik-2023-Foresty/assets/84186470/195d82cb-29af-4800-9891-e6871527f814)
+![gambar](https://github.com/Valcar-ies/WriteUP-Seleksi-Internal-Gemastik-2023-Foresty/assets/84186470/0c34d489-cf99-4d08-8435-742cac519c2b)
 
 The symbol image above is similar to the image below:
 
-![gambar](https://github.com/Valcar-ies/WriteUP-Seleksi-Internal-Gemastik-2023-Foresty/assets/84186470/02517c69-743b-4ac2-aa39-0910cbb76d1a)
+![gambar](https://github.com/Valcar-ies/WriteUP-Seleksi-Internal-Gemastik-2023-Foresty/assets/84186470/2bc01783-b0b0-48ec-81c7-41e74b53b2e2)
 
 From the picture above you can see the shape of the building to the left of the symbol
 very identical to the building that is in the video and happens to be on
@@ -35,14 +35,14 @@ the wikipedia page explains that the "Underground Sign" is located
 at Westminster Station in London, England. So therefore
 we checked on google street view as below:
 
-![gambar](https://github.com/Valcar-ies/WriteUP-Seleksi-Internal-Gemastik-2023-Foresty/assets/84186470/be5fdd14-a6d7-4715-b782-f54235536318)
+![gambar](https://github.com/Valcar-ies/WriteUP-Seleksi-Internal-Gemastik-2023-Foresty/assets/84186470/02401dce-1e66-4608-b1d2-45719efb245a)
 
 And can be seen above is a street view that is on
 Westminster Station is in London, England, and it just so happens
 the sign "Speed ​​Limit 20" which is highlighted in the picture above is very
 matches the video below:
 
-![gambar](https://github.com/Valcar-ies/WriteUP-Seleksi-Internal-Gemastik-2023-Foresty/assets/84186470/8d28ea75-42fc-49d7-a2fc-ea90eec59f00)
+![gambar](https://github.com/Valcar-ies/WriteUP-Seleksi-Internal-Gemastik-2023-Foresty/assets/84186470/51f91671-5097-48ae-a936-fd763304edfa)
 
 The parts above that we highlight are very suitable for the location
 that we found on Google Street View, so we
