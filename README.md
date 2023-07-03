@@ -2,7 +2,7 @@
 >## by gemas menggelitik
 >valcaries, viva03, Warlock0401
 
-![gambar](https://github.com/Valcar-ies/WriteUP-Seleksi-Internal-Gemastik-2023-Foresty/assets/84186470/ce118517-ab34-4423-b846-924d17f51b41)
+![gambar](https://github.com/Valcar-ies/WriteUP-Seleksi-Internal-Gemastik-2023-Foresty/assets/84186470/722c3c89-68e6-4635-8a66-dcaadf1edcfb)
 
 Gemastik Internal Selection 2023, is a selection conducted by Telkom University. This was done to select the CTF team to take part in Gemastik 2023. The team that managed to occupy the top 10 will be chosen to represent Telkom in Gemastik 2023. 
 
