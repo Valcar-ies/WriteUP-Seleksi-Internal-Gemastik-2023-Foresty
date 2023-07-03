@@ -104,4 +104,5 @@ on the file name.
 ForestyCTF{the_real_ransomware_never_store_the_key_hardcoded_on_encrypted_file_12da1f}
 ```
 
+##### Solved by : valcaries
 
