@@ -24,7 +24,7 @@ and the flag will be displayed
 
 ![gambar](https://github.com/Valcar-ies/WriteUP-Seleksi-Internal-Gemastik-2023-Foresty/assets/84186470/1c7ddad8-e53c-4dfd-b5ee-fe529e7431d4)
 
-Flags successfully obtained:
+#### Flags successfully obtained:
 ```console
 ForestyCTF{debug_debug_n_debug_for_the_key_a53dfa}
 ```
